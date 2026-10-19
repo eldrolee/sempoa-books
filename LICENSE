@@ -1,0 +1,39 @@
+Sempoa Books — Proprietary Software Licence
+
+Copyright (c) 2026 Sempoa Books. All rights reserved.
+
+This software, including its code, compiled files, user interface, screen and
+document layouts, text, graphics and the name "Sempoa Books" (together, the
+"Software"), is the property of its owner and is protected by the Copyright
+Act 1987 (Malaysia), the Berne Convention and other laws.
+
+1. Permitted use. You may open and use the Software only at its official
+   address, https://eldrolee.github.io/sempoa-books/, to keep the books of your
+   own business.
+
+2. Not permitted, unless the owner agrees in writing:
+   (a) copying, mirroring, re-hosting, framing or redistributing the Software
+       or any part of it;
+   (b) decompiling, decrypting, de-obfuscating, disassembling or otherwise
+       reverse-engineering the Software, or attempting to get around its
+       licence or domain checks;
+   (c) modifying the Software or making works derived from it;
+   (d) removing or changing any copyright, licence or ownership notice;
+   (e) using the Software, its design or its output to build, train or
+       benchmark a competing product or service;
+   (f) selling, renting or sub-licensing the Software.
+
+3. Your data. Business data you enter stays in your own browser and belongs
+   to you. Nothing in this licence gives the owner any right to it.
+
+4. No warranty. The Software is provided "as is". To the extent the law
+   allows, the owner is not liable for any loss arising from its use. You are
+   responsible for checking statutory filings before you submit them.
+
+5. Termination. Any breach of section 2 ends your right to use the Software
+   immediately, without affecting the owner's other remedies.
+
+6. This licence is governed by the laws of Malaysia.
+
+Making this repository public on GitHub lets the site be served through
+GitHub Pages. It does not grant any licence beyond section 1 above.

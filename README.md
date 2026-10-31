@@ -25,3 +25,6 @@ or reverse-engineering it is not permitted.
 - Keep encrypted backups as well (Import & migrate → Backup & restore).
 - If both the password and the recovery code are lost, the books cannot be recovered.
 - e-Invoices are prepared, not submitted to LHDN. Check statutory figures with a licensed tax agent.
+- Shopee order sync needs Shopee Open Platform partner approval. Setup: run `supabase/marketplace.sql`, deploy
+  `supabase/functions/marketplace`, and set the secrets SHOPEE_PARTNER_ID, SHOPEE_PARTNER_KEY and FUNCTION_URL.
+- PEPPOL files (PINT MY or BIS Billing 3.0) are generated for you to send through a PEPPOL access point.
